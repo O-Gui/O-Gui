@@ -9,7 +9,7 @@
 ### Sobre mim
 
 - 🎓 Cursando **Engenharia de Software**
-- 💻 Interesse em **Desenvolvimento Full Stack** (Backend e Frontend)
+- 💻 Interesse em **Desenvolvimento Full Stack**
 - 🗄️ Experiência acadêmica em **dados**: bancos relacionais, SQL, dados geográficos e dashboards
 - 🎮 Entusiasta de **produção de jogos**: crio um jogo mobile de ritmo, do design das telas ao código 
 - 🎨 Base sólida em **design**, que ajuda a construir interfaces criativas e claras - UX/UI
